@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .nav-link {
+          font-size: 12px !important;
+        }
+
+        .confirmation-text p,
+        .confirmation-text h2 {
+          text-align: center;
+        }
+
+        .add-bag-heading,
+        .add-bag-text {
+          text-align: center !important;
+        }
+
+        .footer-link {
+          text-align: center;
+        }
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .nav-link-width {
+        width: 100%;
+        max-width: 350px
+      }
+
+      .nav-link-container {
+        word-break: normal !important;
+      }
+
+      .nav-link {
+        text-decoration: none;
+        color:
+          #000001;
+        font-weight: bold;
+        font-size: 14px;
+        color: #FBEB00;
+        text-transform: uppercase;
+      }
+
+      .hero-btn a {
+        text-decoration: none;
+        color:
+          #FFFFFF;
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: uppercase;
+        display: block !important;
+      }
+
+      .confirmation-block {
+        border-bottom: 1px dashed lightgrey;
+      }
+
+      .add-bag-heading {
+        text-transform: capitalize;
+        font-size: 26px;
+        margin: 0;
+      }
+
+      .add-bag-text {
+        font-size: 18px;
+      }
+
+
+      .footer-links {
+        max-width: 400px;
+      }
+
+      .footer-link {
+        text-transform: uppercase;
+        color: #000001;
+        font-weight: bold;
+        font-size: 20px;
+        word-break: normal !important;
+        text-decoration: none;
+        display: block;
+      }
+
+      .footer-icon-width {
+        max-width: 300px
+      }
+
+      .footer-small-text {
+        font-size: 12px;
+        margin: 5px 0;
+        color: #222222;
+        font-weight: 500;
+      }
+
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#FFFFFF">
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/hero.mjml" />
+    <mj-include path="./components/confirmation.mjml" />
+    <mj-include path="./components/bagseats.mjml" />
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

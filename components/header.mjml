@@ -1,0 +1,36 @@
+<mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section background-color="#FBEB00">
+      <mj-column css-class="spirit-logo-container">
+        <mj-image href="https://www.spirit.com/" css-class="spirit-logo" width="100px" src="https://i.postimg.cc/J4f2VG93/logo.png" alt="spirit logo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000001">
+      <mj-group css-class="nav-link-width">
+        <mj-column>
+          <mj-text css-class="nav-link-container">
+            <a target="_blank" class="nav-link" href="https://hotels.spirit.com/hotels/?wl_source=EmailHotelsHeader">Hotel</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="nav-link-container">
+            <a target="_blank" class="nav-link" href="https://cars.spirit.com/rentalcars/?wl_source=EmailCarsHeader">Car</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="nav-link-container">
+            <a target="_blank" class="nav-link" href="https://www.spirit.com/my-trips/find-trip">Trips</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding-right="0" css-class="nav-link-container">
+            <a target="_blank" class="nav-link" href="https://www.spirit.com/s/our-partners">Partners</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- End Header -->
+    </mj-raw>

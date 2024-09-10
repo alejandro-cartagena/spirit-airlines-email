@@ -1,0 +1,34 @@
+<mj-raw>
+      <!-- Hero -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://i.postimg.cc/4N7SSzFN/hero.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FBEB00">
+      <mj-column width="100%">
+        <mj-text text-transform="uppercase" align="center" font-size="40px" font-weight="bold">
+          Customize Your Flight
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-text  align="center" font-size="18px" line-height="25px">
+          Thanks Alejandro for choosing our “Go” fare. When you’re ready to go, grab your one personal item and hop aboard. If you haven't already, you can buy a seat, prepay for Wi-Fi or purchase a checked bag.
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-button padding="15px 0" background-color="#4DB0BD" css-class="hero-btn">
+          <mj-text>
+            <a class="hero-btn-link" href="#">Add Now</a>
+          </mj-text>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- End Hero -->
+    </mj-raw>

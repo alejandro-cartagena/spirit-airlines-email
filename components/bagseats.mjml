@@ -1,0 +1,51 @@
+<mj-raw>
+      <!-- Bags and Seats Section -->
+    </mj-raw>
+
+    <mj-section css-class="footer-links" background-color="#EFEFEF">
+      <mj-column width="25%">
+        <mj-image padding-top="30px" width="75px" src="https://i.postimg.cc/nr5wLzMJ/bag.png" alt="" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <h2 class="add-bag-heading">Add Bags Now</h2>
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0">
+          <p class="add-bag-text">Need a checked bag? Save money by adding them to your reservation ahead of time.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button padding="0" background-color="#4DB0BD" css-class="hero-btn">
+          <mj-text>
+            <a class="hero-btn-link" href="#">Add Bags</a>
+          </mj-text>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#EFEFEF">
+      <mj-column width="25%">
+        <mj-image padding-top="30px" width="50px" src="https://i.postimg.cc/G2Lf7V6Z/seat.png" alt="" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text padding-top="0" padding-bottom="0">
+          <h2 class="add-bag-heading">Select Seats</h2>
+        </mj-text>
+        <mj-text padding-top="0" padding-bottom="0">
+          <p class="add-bag-text">Choose now before your window seat is taken.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button padding="0" background-color="#4DB0BD" css-class="hero-btn">
+          <mj-text>
+            <a class="hero-btn-link" href="#">Add a seat</a>
+          </mj-text>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-raw>
+      <!-- End Bags and Seats Section -->
+    </mj-raw>
