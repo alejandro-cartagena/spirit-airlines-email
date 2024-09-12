@@ -74,7 +74,7 @@
   </mj-group>
 </mj-section>
 
-<mj-section>
+<mj-section padding-left="25px" padding-right="25px">
   <mj-column>
     <mj-text padding="0" align="center">
       <p class="footer-small-text">Spirit Airlines</p>
@@ -94,7 +94,7 @@
 </mj-section>
 
 <mj-section>
-  <mj-group css-class="footer-bottom-most-links">
+  <mj-group  css-class="footer-bottom-most-links">
     <mj-column>
       <mj-text padding-top="0" padding-bottom="0" align="center">
         <a target="_blank" href="https://www.spirit.com/s/privacy-policy"
