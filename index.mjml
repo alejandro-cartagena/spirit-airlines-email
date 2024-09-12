@@ -6,7 +6,6 @@
       }
 
       @media only screen and (max-width: 480px) {
-
         .nav-link {
           font-size: 12px !important;
         }
@@ -24,7 +23,6 @@
         .footer-link {
           text-align: center;
         }
-
       }
     </mj-style>
     <mj-style inline="inline">
@@ -71,17 +69,18 @@
         font-size: 18px;
       }
 
-
       .footer-links {
         max-width: 400px;
       }
 
       .footer-link {
-        text-transform: uppercase;
+        text-transform:
+          uppercase;
         color: #000001;
         font-weight: bold;
         font-size: 20px;
-        word-break: normal !important;
+        word-break:
+          normal !important;
         text-decoration: none;
         display: block;
       }
@@ -91,12 +90,12 @@
       }
 
       .footer-small-text {
-        font-size: 12px;
+        font-size:
+          12px;
         margin: 5px 0;
         color: #222222;
         font-weight: 500;
       }
-
     </mj-style>
   </mj-head>
 

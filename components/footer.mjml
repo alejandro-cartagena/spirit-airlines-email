@@ -1,77 +1,110 @@
 <mj-raw>
-      <!-- Footer -->
-    </mj-raw>
+  <!-- Footer -->
+</mj-raw>
 
-    <mj-section background-color="#FFFFFF">
-      <mj-column width="25%">
-        <mj-text>
-          <a target="_blank" class="footer-link" href="https://hotels.spirit.com/hotels/?wl_source=EmailHotelsHeader">Hotel</a>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-text>
-          <a target="_blank" class="footer-link" href="https://cars.spirit.com/rentalcars/?wl_source=EmailCarsHeader">Car</a>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-text>
-          <a target="_blank" class="footer-link" href="https://www.spirit.com/my-trips/find-trip">Trips</a>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-text>
-          <a target="_blank" class="footer-link" href="https://www.spirit.com/s/our-partners">Partners</a>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+<mj-section background-color="#FFFFFF">
+  <mj-column width="25%">
+    <mj-text>
+      <a
+        target="_blank"
+        class="footer-link"
+        href="https://hotels.spirit.com/hotels/?wl_source=EmailHotelsHeader"
+        >Hotel</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="25%">
+    <mj-text>
+      <a
+        target="_blank"
+        class="footer-link"
+        href="https://cars.spirit.com/rentalcars/?wl_source=EmailCarsHeader"
+        >Car</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="25%">
+    <mj-text>
+      <a
+        target="_blank"
+        class="footer-link"
+        href="https://www.spirit.com/my-trips/find-trip"
+        >Trips</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="25%">
+    <mj-text>
+      <a
+        target="_blank"
+        class="footer-link"
+        href="https://www.spirit.com/s/our-partners"
+        >Partners</a
+      >
+    </mj-text>
+  </mj-column>
+</mj-section>
 
-    <mj-section padding-top="0">
-      <mj-group css-class="footer-icon-width">
-        <mj-column width="33.33%">
-          <mj-image href="https://x.com/SpiritAirlines" width="50px" src="https://i.postimg.cc/HnjhH5Yz/x.png" alt="" />
-        </mj-column>
-        <mj-column width="33.33%">
-          <mj-image href="https://www.instagram.com/spiritairlines/" width="50px" src="https://i.postimg.cc/gcB7sMsT/fb.jpg" alt="" />
-        </mj-column>
-        <mj-column width="33.33%">
-          <mj-image href="https://www.facebook.com/SpiritAirlines/" width="50px" src="https://i.postimg.cc/0y7H89sT/insta.jpg" alt="" />
-        </mj-column>
-      </mj-group>
-    </mj-section>
+<mj-section padding-top="0">
+  <mj-group css-class="footer-icon-width">
+    <mj-column width="33.33%">
+      <mj-image
+        href="https://x.com/SpiritAirlines"
+        width="50px"
+        src="https://i.postimg.cc/HnjhH5Yz/x.png"
+        alt=""
+      />
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-image
+        href="https://www.instagram.com/spiritairlines/"
+        width="50px"
+        src="https://i.postimg.cc/gcB7sMsT/fb.jpg"
+        alt=""
+      />
+    </mj-column>
+    <mj-column width="33.33%">
+      <mj-image
+        href="https://www.facebook.com/SpiritAirlines/"
+        width="50px"
+        src="https://i.postimg.cc/0y7H89sT/insta.jpg"
+        alt=""
+      />
+    </mj-column>
+  </mj-group>
+</mj-section>
 
-    <mj-section>
-      <mj-column>
-        <mj-text padding="0" align="center">
-          <p class="footer-small-text">Spirit Airlines</p>
-        </mj-text>
-        <mj-text padding="0" align="center">
-          <p class="footer-small-text">1731 Radiant Drive</p>
-        </mj-text>
-        <mj-text padding="0" align="center">
-          <p class="footer-small-text">Dania Beach, FL 33004</p>
-        </mj-text>
-        <mj-text padding="0" align="center">
-          <p class="footer-small-text">Copyright © 2024 Spirit Airlines, Inc. All Rights Reserved.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+<mj-section>
+  <mj-column>
+    <mj-text padding="0" align="center">
+      <p class="footer-small-text">Spirit Airlines</p>
+    </mj-text>
+    <mj-text padding="0" align="center">
+      <p class="footer-small-text">1731 Radiant Drive</p>
+    </mj-text>
+    <mj-text padding="0" align="center">
+      <p class="footer-small-text">Dania Beach, FL 33004</p>
+    </mj-text>
+    <mj-text padding="0" align="center">
+      <p class="footer-small-text">
+        Copyright © 2024 Spirit Airlines, Inc. All Rights Reserved.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
 
-    <mj-section>
-      <mj-group css-class="footer-bottom-most-links">
-        <mj-column width="50%">
-          <mj-text padding-top="0" padding-bottom="0" padding-right="5px" align="right">
-            <a target="_blank" href="https://www.spirit.com/s/privacy-policy">Privacy Policy</a>
-          </mj-text>
-        </mj-column>
-        <mj-column width="50%">
-          <mj-text padding-top="0" padding-bottom="0" padding-left="5px" align="left">
-            <a target="_blank" href="https://customersupport.spirit.com/en-us">Help</a>
-          </mj-text>
-        </mj-column>
-      </mj-group>
+<mj-section>
+  <mj-group css-class="footer-bottom-most-links">
+    <mj-column>
+      <mj-text padding-top="0" padding-bottom="0" align="center">
+        <a target="_blank" href="https://www.spirit.com/s/privacy-policy"
+          >Privacy Policy</a
+        >
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
 
-    </mj-section>
-
-    <mj-raw>
-      <!-- End Footer -->
-    </mj-raw>
+<mj-raw>
+  <!-- End Footer -->
+</mj-raw>

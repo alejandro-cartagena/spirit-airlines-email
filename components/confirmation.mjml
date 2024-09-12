@@ -1,97 +1,105 @@
 <mj-raw>
-      <!-- Confirmation Section -->
-    </mj-raw>
+  <!-- Confirmation Section -->
+</mj-raw>
 
-    <mj-section css-class="confirmation-block" background-color="#EFEFEF">
-      <mj-column width="100%">
-        <mj-text align="center">
-          <p style="font-size: 24px">Confirmation Number: <b>ABC123</b></p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+<mj-section css-class="confirmation-block" background-color="#EFEFEF">
+  <mj-column width="100%">
+    <mj-text line-height="35px" align="center">
+      <p style="font-size: 24px">Confirmation Number: <b>ABC123</b></p>
+    </mj-text>
+  </mj-column>
+</mj-section>
 
-    <mj-section css-class="confirmation-block" background-color="#EFEFEF">
-      <mj-column padding="20px 0" width="25%">
-        <mj-text css-class="confirmation-text" padding="0">
-          <p style="margin: 0; font-size: 14px; margin-bottom: 4px">
-            Fort Lauderdale, FL
-          </p>
-        </mj-text>
-        <mj-text css-class="confirmation-text" padding="0">
-          <h2 style="margin: 0; margin-bottom: 4px">FLL</h2>
-        </mj-text>
-        <mj-text css-class="confirmation-text" padding="0">
-          <p style="margin: 0; font-size: 14px">09/06/24, <b>12:10 PM</b></p>
-        </mj-text>
-      </mj-column>
+<mj-section css-class="confirmation-block" background-color="#EFEFEF">
+  <mj-column padding="20px 0" width="25%">
+    <mj-text css-class="confirmation-text" padding="0">
+      <p style="margin: 0; font-size: 14px; margin-bottom: 4px">
+        Fort Lauderdale, FL
+      </p>
+    </mj-text>
+    <mj-text css-class="confirmation-text" padding="0">
+      <h2 style="margin: 0; margin-bottom: 4px">FLL</h2>
+    </mj-text>
+    <mj-text css-class="confirmation-text" padding="0">
+      <p style="margin: 0; font-size: 14px">09/06/24, <b>12:10 PM</b></p>
+    </mj-text>
+  </mj-column>
 
-      <mj-column padding="20px 0" width="25%">
-        <mj-image padding="0" align="center" width="40px" src="https://i.postimg.cc/PxSRBKjN/plane.png" alt="" />
-        <mj-text align="center" padding="0">
-          <h3 style="margin-bottom: 4px">NK 327</h3>
-        </mj-text>
-      </mj-column>
+  <mj-column padding="20px 0" width="25%">
+    <mj-image
+      padding="0"
+      align="center"
+      width="40px"
+      src="https://i.postimg.cc/PxSRBKjN/plane.png"
+      alt=""
+    />
+    <mj-text align="center" padding="0">
+      <h3 style="margin-bottom: 4px">NK 327</h3>
+    </mj-text>
+  </mj-column>
 
-      <mj-column padding="20px 0" width="25%">
-        <mj-text css-class="confirmation-text" align="right" padding="0">
-          <p style="margin: 0; font-size: 14px; margin-bottom: 4px">
-            Chicago, IL
-          </p>
-        </mj-text>
-        <mj-text css-class="confirmation-text" align="right" padding="0">
-          <h2 style="margin: 0; margin-bottom: 4px">ORD</h2>
-        </mj-text>
-        <mj-text css-class="confirmation-text" align="right" padding="0">
-          <p style="margin: 0; font-size: 14px">09/06/24, <b>2:28 PM</b></p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+  <mj-column padding="20px 0" width="25%">
+    <mj-text css-class="confirmation-text" align="right" padding="0">
+      <p style="margin: 0; font-size: 14px; margin-bottom: 4px">Chicago, IL</p>
+    </mj-text>
+    <mj-text css-class="confirmation-text" align="right" padding="0">
+      <h2 style="margin: 0; margin-bottom: 4px">ORD</h2>
+    </mj-text>
+    <mj-text css-class="confirmation-text" align="right" padding="0">
+      <p style="margin: 0; font-size: 14px">09/06/24, <b>2:28 PM</b></p>
+    </mj-text>
+  </mj-column>
+</mj-section>
 
-    <mj-section css-class="confirmation-block" background-color="#EFEFEF">
-      <mj-column padding="20px 0" width="25%">
-        <mj-text css-class="confirmation-text" padding="0">
-          <p style="margin: 0; font-size: 14px; margin-bottom: 4px">
-            Chicago, IL
-          </p>
-        </mj-text>
-        <mj-text css-class="confirmation-text" padding="0">
-          <h2 style="margin: 0; margin-bottom: 4px">ORD</h2>
-        </mj-text>
-        <mj-text css-class="confirmation-text" padding="0">
-          <p style="margin: 0; font-size: 14px">09/09/24, <b>3:23 PM</b></p>
-        </mj-text>
-      </mj-column>
+<mj-section css-class="confirmation-block" background-color="#EFEFEF">
+  <mj-column padding="20px 0" width="25%">
+    <mj-text css-class="confirmation-text" padding="0">
+      <p style="margin: 0; font-size: 14px; margin-bottom: 4px">Chicago, IL</p>
+    </mj-text>
+    <mj-text css-class="confirmation-text" padding="0">
+      <h2 style="margin: 0; margin-bottom: 4px">ORD</h2>
+    </mj-text>
+    <mj-text css-class="confirmation-text" padding="0">
+      <p style="margin: 0; font-size: 14px">09/09/24, <b>3:23 PM</b></p>
+    </mj-text>
+  </mj-column>
 
-      <mj-column padding="20px 0" width="25%">
-        <mj-image padding="0" align="center" width="40px" src="https://i.postimg.cc/PxSRBKjN/plane.png" alt="" />
-        <mj-text align="center" padding="0">
-          <h3 style="margin-bottom: 4px">NK 327</h3>
-        </mj-text>
-      </mj-column>
+  <mj-column padding="20px 0" width="25%">
+    <mj-image
+      padding="0"
+      align="center"
+      width="40px"
+      src="https://i.postimg.cc/PxSRBKjN/plane.png"
+      alt=""
+    />
+    <mj-text align="center" padding="0">
+      <h3 style="margin-bottom: 4px">NK 327</h3>
+    </mj-text>
+  </mj-column>
 
-      <mj-column padding="20px 0" width="25%">
-        <mj-text css-class="confirmation-text" align="right" padding="0">
-          <p style="margin: 0; font-size: 14px; margin-bottom: 4px">
-            Fort Lauderdale, FL
-          </p>
-        </mj-text>
-        <mj-text css-class="confirmation-text" align="right" padding="0">
-          <h2 style="margin: 0; margin-bottom: 4px">FLL</h2>
-        </mj-text>
-        <mj-text css-class="confirmation-text" align="right" padding="0">
-          <p style="margin: 0; font-size: 14px">09/09/24, <b>7:34 PM</b></p>
-        </mj-text>
-      </mj-column>
+  <mj-column padding="20px 0" width="25%">
+    <mj-text css-class="confirmation-text" align="right" padding="0">
+      <p style="margin: 0; font-size: 14px; margin-bottom: 4px">
+        Fort Lauderdale, FL
+      </p>
+    </mj-text>
+    <mj-text css-class="confirmation-text" align="right" padding="0">
+      <h2 style="margin: 0; margin-bottom: 4px">FLL</h2>
+    </mj-text>
+    <mj-text css-class="confirmation-text" align="right" padding="0">
+      <p style="margin: 0; font-size: 14px">09/09/24, <b>7:34 PM</b></p>
+    </mj-text>
+  </mj-column>
 
-      <mj-column width="100%">
-        <mj-button padding="15px 0" background-color="#4DB0BD" css-class="hero-btn">
-          <mj-text>
-            <a class="hero-btn-link" href="#">Modify Itinerary</a>
-          </mj-text>
-        </mj-button>
-      </mj-column>
-    </mj-section>
+  <mj-column width="100%">
+    <mj-button padding="15px 0" background-color="#4DB0BD" css-class="hero-btn">
+      <mj-text>
+        <a class="hero-btn-link" href="#">Modify Itinerary</a>
+      </mj-text>
+    </mj-button>
+  </mj-column>
+</mj-section>
 
-    <mj-raw>
-      <!-- End Confirmation Section -->
-    </mj-raw>
+<mj-raw>
+  <!-- End Confirmation Section -->
+</mj-raw>
